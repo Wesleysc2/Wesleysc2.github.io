@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+*{
+	font-family: verdana;
+}
+
+nav{
+	box-shadow: 2px 2px 2px black;
+}
+
+a.navbar-brand{
+	font-size: 22px;
+}
+
+.container{
+	width: 750px;
+	position: relative;
+	top: 30px;
+}
+
+blockquote{
+    border-left: 5px solid black;
+    font-size: 200%;
+}
+
+.subtitulo{
+	font-size: 200%;
+}
+
+#fotoPerfil{
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 30%;
+	top: 25%;
+	border-radius: 100%;
+}
+
+.rowPerfil{
+	box-shadow: 1px 1px 1px 1px grey;
+	background-color: #efefef;
+}
+
+.coluna{
+	margin: 40px 0px 40px 0px; 
+}
+
+#imagem{
+	width: 18rem;
+	border-color: 50px black;
+	border-bottom: 2px solid black;
+}
+
+.card{
+	width: 18rem;
+		box-shadow: 2px 2px 2px grey;
+}
+
+.col{
+	margin: 40px 0px 40px 0px;
+}
+
+.icone{
+	width: 40px;
+	height: 40px;
+}
+
+.frufru{
+	text-decoration: underline;
+	color: darkred;
+}
